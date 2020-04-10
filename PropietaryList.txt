@@ -1,0 +1,57 @@
+List of Projects from Decision Sciences (not a full list, difficult to remember everything; also, not all projects came to a conclusion since they were simply research based):
+
+(1) Event Plotter - Singular Value Decomposition
+(2) Event Plotter - Linear Regression
+(3) Geometic Calibration / System Calibration
+(4) LookUp Table Calibration / System Calibration
+(5) Feature Merge Pipeline Development
+(6) Visualization Environment (Analysis)
+  (a) List of Plugins created (ParaView Environment):
+    (1) Classified Scene Reader
+    (2) Reconstruction Data Epoch Reader
+    (3) VTK Poly Data Epoch Reader
+    (4) Particle Track Event Epoch POCA Reconstruction
+    (5) Particle Track Event Epoch Reader (protobuf / avro)
+    (6) Particle Track Epoch Reader (protobuf / avro)
+    (7) Reconstruction Data DDS Reader
+    (8) VTK Poly Data Epoch DDS Reader
+    (9) Extract Container Bounds From Image
+    (10) Remove Noise From Image
+    (11) Apply Voxel Image Correction
+    (12) Particle Track Manipulation
+    (13) Filter Drift Tubes During particle events (outlier tubes / rates)
+    (14) VTK Segmentation Cluster Edges
+    (15) Point Cloud Plugin (updated for both Kinect Camera and LiDAR - VLP-16)
+    (16) Truth Tagging Generator for reconstruction volumes (TwoSix - SadEM)
+    (17) Truth Tagging Reader
+    (18) Volume Locator
+    (19) Drift Spectrum Graph Reader
+    (20) Drift Time Graph
+    (21) Drift Tube Doca (Distance Of Closest Approach) Graph
+    (22) Drift Tube Event Reader
+    (23) Drift Tube Momentum Graph
+    (24) Drift Tube Scattering Angle Graph
+    (25) Dss VTI material Volumes Filtered
+    (26) Dss VTI Reconstruction Twosix Container
+    (27) Dss VTP Gamma Volumes Detected
+    (28) Dss VTP Highz Volumes Classified
+    (29) Dss VTP Material Volumes Classified
+    (30) Gamma Viewer
+    (31) Geometry Reader
+    (32) Maximum Likelihood
+    (33) Outlier Tubes
+    (34) Poorman Reconstruction
+    (35) Raw Gamma Graph Reader
+    (36) Reconstruction From Array
+    (37) Scattering and Displacement Reconstruction (SadEM)
+  (b) most of the listed plugins were created for live streaming (to watch algorithms in real-time)
+(7) Image Segmentation Techniques
+  (a) Volume Localization through iterating through 3-dimensional image data
+  (b) pallet / gap localization between cargo
+  (c) denoising techniques (normalization, laplacian, gaussian, vtk Image environment)
+(8) Cargo CLAM locator
+  (a) Velodyne - VLP 16
+  (b) segmentation, clustering, point cloud part identification (pointnet)
+(9) Binary Classifier (assistant)
+(10) Track Feature Image Uniformity Correction
+(11) Track Image Deconvoltion
