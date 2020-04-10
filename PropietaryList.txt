@@ -1,9 +1,9 @@
 List of Projects from Decision Sciences (not a full list, difficult to remember everything; also, not all projects came to a conclusion since they were simply research based):
 
-(1) Event Plotter - Singular Value Decomposition
-(2) Event Plotter - Linear Regression
+
+(2) Event Plotter - Linear Regression -> Singular Value Decomposition
 (3) Geometic Calibration / System Calibration
-(4) LookUp Table Calibration / System Calibration
+(4) Drift LookUp Table Calibration / System Calibration
 (5) Feature Merge Pipeline Development
 (6) Visualization Environment (Analysis)
   (a) List of Plugins created (ParaView Environment):
