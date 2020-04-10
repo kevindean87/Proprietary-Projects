@@ -1,11 +1,11 @@
 List of Projects from Decision Sciences (not a full list, difficult to remember everything; also, not all projects came to a conclusion since they were simply research based):
 
 
-(2) Event Plotter - Linear Regression -> Singular Value Decomposition
-(3) Geometic Calibration / System Calibration
-(4) Drift LookUp Table Calibration / System Calibration
-(5) Feature Merge Pipeline Development
-(6) Visualization Environment (Analysis)
+(1) Event Plotter - Linear Regression -> Singular Value Decomposition
+(2) Geometic Calibration / System Calibration
+(3) Drift LookUp Table Calibration / System Calibration
+(4) Feature Merge Pipeline Development
+(5) Visualization Environment (Analysis)
   (a) List of Plugins created (ParaView Environment):
     (1) Classified Scene Reader
     (2) Reconstruction Data Epoch Reader
@@ -45,13 +45,14 @@ List of Projects from Decision Sciences (not a full list, difficult to remember 
     (36) Reconstruction From Array
     (37) Scattering and Displacement Reconstruction (SadEM)
   (b) most of the listed plugins were created for live streaming (to watch algorithms in real-time)
-(7) Image Segmentation Techniques
+(6) Image Segmentation Techniques
   (a) Volume Localization through iterating through 3-dimensional image data
   (b) pallet / gap localization between cargo
   (c) denoising techniques (normalization, laplacian, gaussian, vtk Image environment)
-(8) Cargo CLAM locator
+(7) Cargo CLAM locator
   (a) Velodyne - VLP 16
   (b) segmentation, clustering, point cloud part identification (pointnet)
-(9) Binary Classifier (assistant)
+(8) Binary Classifier (assistant)
+(9) Point-wise Radial Image Analysis
 (10) Track Feature Image Uniformity Correction
 (11) Track Image Deconvoltion
